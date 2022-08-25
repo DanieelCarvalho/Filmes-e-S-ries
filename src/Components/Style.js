@@ -10,6 +10,7 @@ export const Titulo = styled.h1 `
     height: 5vh;
     margin-bottom:0px;
     
+    
 `
 export const Principal =styled.div`
     display:flex;
@@ -18,7 +19,7 @@ export const Principal =styled.div`
     height: 10vh;
     width:80vw;
     
-}
+    
 ul{
     display:flex;
     justify-content:space-evenly;
@@ -27,16 +28,9 @@ ul{
     height: 10vh;
     margin-bottom:0px;
     list-style: none;
- 
-  
     
-   
     
 }
-li{
-
-}
-    
 
 
 `

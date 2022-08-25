@@ -14,13 +14,13 @@ class Header extends Component {
                 <S.Titulo>MovieTop+ </S.Titulo>
                     <ul>
                         <li>
-                            <S.Menu  to='/' >Home </S.Menu>
+                            <S.Menu  to='/' > Início </S.Menu>
                         </li>
                         <li>
                             <S.Menu to='/movies'>Filmes</S.Menu>
                         </li>
                         <li>
-                            <S.Menu to='/series'>Series</S.Menu>
+                            <S.Menu to='/series'>Séries</S.Menu>
                         </li>
                     </ul>
             
